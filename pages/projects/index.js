@@ -22,8 +22,8 @@ export default function Projects(){
                     <ProjectsCard title="Witter" pageUrl="https://witter-tan.vercel.app" gitUrl={null} imageUrl="/img/Witter.png">Witter es una pagina web estilo Twitter diseñada con NextJS y usando Firebase para el back-end</ProjectsCard>
                     <ProjectsCard title="Midjourney/Landing Page" pageUrl="https://landing-page-midyourney.vercel.app" gitUrl="https://github.com/Gonzalo-Erceg/Landing_page-Midyourney" imageUrl="/img/midjourney.png">Perico</ProjectsCard>
                     <ProjectsCard title="Shop App" pageUrl="https://gonzalo-erceg.github.io/shop-app/" gitUrl="https://github.com/Gonzalo-Erceg/shop-app" imageUrl="/img/ShopApp.png">Shop app es una pagina web estatica estilo tienda virtual con carritu de compra y carousel de pago</ProjectsCard>
-                    <ProjectsCard title="Rick and Morty API" pageUrl="https://gonzalo-erceg.github.io/rickAndMorty/" gitUrl="https://github.com/Gonzalo-Erceg/rickAndMorty" imageUrl="/img/RaM.png"></ProjectsCard>
-                    <ProjectsCard title="Task App" pageUrl="https://task-app-kappa.vercel.app" gitUrl="https://github.com/Gonzalo-Erceg/task_app" imageUrl="/img/task_app.png">proyectito</ProjectsCard>
+                    <ProjectsCard title="Rick and Morty API" pageUrl="https://gonzalo-erceg.github.io/rickAndMorty/" gitUrl="https://github.com/Gonzalo-Erceg/rickAndMorty" imageUrl="/img/RaM.png">Esta pagina esta hecha con rickandmortyapi, la pagina muestra la lista de personajes de la serie y muestra informacion sobre ellos.</ProjectsCard>
+                    <ProjectsCard title="Task App" pageUrl="https://task-app-kappa.vercel.app" gitUrl="https://github.com/Gonzalo-Erceg/task_app" imageUrl="/img/task_app.png">Task app es una pagina web donde puedes anotar tareas que se guardan en el localStorage</ProjectsCard>
                 </Grid.Container>
             </div>  
         </Blayout>

@@ -1,5 +1,5 @@
 import { Card, Text,Grid, Modal,Button } from "@nextui-org/react"
-import Image from "NEXT/image"
+import Image from "next/image"
 import { useState } from "react"
 import Link from "next/link"
 export default function ProjectsCard({children, title,gitUrl,pageUrl,imageUrl}){
